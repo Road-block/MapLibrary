@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: MapLibrary
+## Author: Kristofer Karlsson, krka@kth.se
+## Version: 1.1.5
+## Notes: Used to get coordinates and distances.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: MapLibraryData
+MapLibrary.xml
